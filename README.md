@@ -1,7 +1,7 @@
 # ParsText: A Digraphic Corpus for Tajik-Farsi Transliteration
 This repository contains the corpus for the paper entitled ["ParsText: A Digraphic Corpus for Tajik-Farsi Transliteration"](https://doi.org/10.31234/osf.io/xdf2w). 
 
-This dataset is available in XML (TEI) and TXT format, as well as aligned with GaChalign and unaligned (see corresponding folders). We also provide each source of data separately, in case one wishes to use only certain parts of the dataset.
+This dataset is available in XML (TEI) and TXT format, in both raw (unaligned) and aligned (using GaChalign) format (see corresponding folders). We also provide each source of data separately, in case one wishes to use only certain parts of the dataset.
 
 If you use or reference ParsText, please cite our paper:
 
