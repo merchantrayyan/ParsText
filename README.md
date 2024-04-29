@@ -6,22 +6,22 @@ This dataset is available in JSON, CSV and TXT format. We also provide each sour
 
 ```
 .
-├── data                    # Corpus data
-│   ├── aligned             # All (pre-processed) data aligned in various formats
-│   │   ├── csv             # .csv format - one file per <source>
+├── data                      # Corpus data
+│   ├── aligned               # All (pre-processed) data aligned in various formats
+│   │   ├── csv               # .csv format - one file per <source>
 │   │   │   ├── <source>.csv
-│   │   ├── json            # .json format - one file per <source>
+│   │   ├── json              # .json format - one file per <source>
 │   │   │   ├── <source>.json
-│   │   ├── txt             # .txt format - two files per <source>
+│   │   ├── txt               # .txt format - two files per <source>
 │   │   │   ├── <source>.tj   # Tajik sentences
 │   │   │   ├── <source>.fa   # Farsi sentences
-│   ├── unaligned           # All raw data as individual .txt files in each <source> folder
-│   │   ├── <source>        # tajik/source_1.tj <=> farsi/source_1.fa
+│   ├── unaligned             # All raw data as individual .txt files in each <source> folder
+│   │   ├── <source>          # tajik/source_1.tj <=> farsi/source_1.fa
 │   │   │   ├── tajik       
 │   │   │   │   ├── <source>_1.tj
 │   │   │   ├── farsi       
 │   │   │   │   ├── <source>_1.fa
-├── alignment               # Alignment using GaChalign and pre-processing method used
+├── alignment                 # Alignment using GaChalign and pre-processing method used
 │   ├──                     
 │   ├──                   
 ├── LICENSE
