@@ -1,7 +1,7 @@
 # ParsText: A Digraphic Corpus for Tajik-Farsi Transliteration
 This repository contains the corpus for the paper entitled ["ParsText: A Digraphic Corpus for Tajik-Farsi Transliteration"](https://doi.org/10.31234/osf.io/xdf2w). 
 
-This dataset is available in JSON, CSV and TXT format. We also provide each source of data separately, with individual TXT files for each raw/unaligned entry.
+This dataset is available in JSON, CSV and TXT format. In addition to these aligned  with individual TXT files for each raw/unaligned entry.
 
 
 ```
