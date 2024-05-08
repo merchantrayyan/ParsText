@@ -20,9 +20,11 @@ This dataset is available in JSON, CSV and TXT format. In addition to these, we 
 │   │   │   ├── <source>_1.tj    
 │   │   │   ├── <source>_1.fa
 │   │   │   ├── ...
-├── alignment                     # Alignment using GaChalign and pre-processing method used
-│   ├──                     
-│   ├──                   
+├── alignment                     # Alignment and preprocessing code                  
+│   ├── gale-church.py            # Original GaChalign code with ability to specify output
+│   ├── gale.py                   # Calls gale-church.py on specified files
+│   ├── gacha_input.py            # Converts corpus to GaChalign format
+│   ├── minimath.py               # Dependency for GaChalign                
 ├── LICENSE
 └── README.md
 ```

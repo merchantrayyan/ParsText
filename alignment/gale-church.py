@@ -1,6 +1,6 @@
 # -*- coding: utf8 -*-
 #python gale-church.py output source_corpus target_corpus gacha
-#this implementation has been modified to allow one to put in the output file
+#this implementation has been modified to allow one to specify an output file
 
 
 """
