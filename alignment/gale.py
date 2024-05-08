@@ -6,7 +6,7 @@
 
 from subprocess import call
 
-path = "/Users/rayyanmerchant/Dropbox (UFL)/ParsTransliteration/data/aligned/raw_data/"
+path = "/ParsText/data/unaligned/raw_data/"
 
 call(["python","gale-church.py",(path + "bbc.txt"),("data/bbc.fa"),("data/bbc.tj"), "gacha"])
 call(["python","gale-church.py",(path + "dr.txt"),("data/dr.fa"),("data/dr.tj"), "gacha"])

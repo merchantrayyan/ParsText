@@ -16,11 +16,10 @@ This dataset is available in JSON, CSV and TXT format. In addition to these alig
 │   │   │   ├── <source>.tj   # Tajik sentences
 │   │   │   ├── <source>.fa   # Farsi sentences
 │   ├── unaligned             # All raw data as individual .txt files in each <source> folder
-│   │   ├── <source>          # tajik/source_1.tj <=> farsi/source_1.fa
-│   │   │   ├── tajik       
-│   │   │   │   ├── <source>_1.tj
-│   │   │   ├── farsi       
-│   │   │   │   ├── <source>_1.fa
+│   │   ├── <source>.zip          # tajik/source/source_1.tj <=> farsi/source_1.fa
+│   │   │   ├── <source>_1.tj    
+│   │   │   ├── <source>_1.fa
+│   │   │   ├── ...
 ├── alignment                 # Alignment using GaChalign and pre-processing method used
 │   ├──                     
 │   ├──                   
