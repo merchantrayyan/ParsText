@@ -10,8 +10,8 @@ import codecs
 import re
 
 
-corpus_path = "/Users/rayyanmerchant/Dropbox (UFL)/ParsTransliteration/data/blogs/"
-align_path = "/Users/rayyanmerchant/Dropbox (UFL)/ParsTransliteration/data/aligned/gacha/data/"
+corpus_path = "/Users/XXXX/Dropbox/ParsTransliteration/data/blogs/"
+align_path = "/Users/XXXX/Dropbox/ParsTransliteration/data/aligned/gacha/data/"
 
 farsi = []
 tajiki = []
