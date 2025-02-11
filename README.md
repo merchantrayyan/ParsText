@@ -1,5 +1,5 @@
-# ParsText: A Digraphic Corpus for Tajik-Farsi Transliteration
-This repository contains the corpus for the paper entitled ["ParsText: A Digraphic Corpus for Tajik-Farsi Transliteration"](https://doi.org/10.31234/osf.io/xdf2w). 
+#
+This repository contains the corpus for the paper entitled [ANONYMIZED]. 
 
 This dataset is available in JSON, CSV and TXT format. In addition to these, we provide  individual TXT files for each raw/unaligned entry to allow for users' own alignment methods. Our preprocessing and alignment code is also available.
 
@@ -29,19 +29,19 @@ This dataset is available in JSON, CSV and TXT format. In addition to these, we 
 └── README.md
 ```
 
-If you use or reference ParsText, please cite our paper:
+If you use or reference [ANONYMIZED], please cite our paper:
 
 ```
-@InProceedings{MerchantTang_CAWL_Accepted_2024,
-author = {Rayyan Merchant and Kevin Tang},
-title = {{P}ars{T}ext: A Digraphic Corpus for {T}ajik-{F}arsi Transliteration},
-booktitle = {{Proceedings of the Second Workshop on Computation and Written Language (CAWL 2024)}},
-year = {2024},
-editor = {Gorman, Kyle and Prud’hommeaux, Emily and Sproat, Richard and Roark, Brian},
-note = {accepted (Preprint: \url{https://doi.org/10.31234/osf.io/xdf2w}},
-publisher = {Association for Computational Linguistics},
-month = {05},
-pubstate = {forthcoming},
-address = {Torino, Italia},
+@inproceedings{anonymous-2024,
+    title = "{[Title Redacted]}",
+    author = "[Anonymous] and [Anonymous]",
+    editor = "[Anonymous] and [Anonymous] and [Anonymous] and [Anonymous]",
+    booktitle = "[Journal Redacted for Anonymity]",
+    month = may,
+    year = "2024",
+    publisher = "[Publisher Redacted for Anonymity]]",
+    url = "[Redacted]",
+    pages = "1--7",
+    abstract = "[Abstract Redacted for Anonymity]"
 }
 ```
